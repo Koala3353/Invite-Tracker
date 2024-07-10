@@ -1,3 +1,6 @@
+# Invite Tracker
+A really simple discord bot that works as a referral system for a discord server. It uses SQLite to store and increment the invite counts. 
+
 # What it does
 1.) Makes a custom code for a user to invite his friend.
 
@@ -8,3 +11,7 @@
 # Images
 ![image](https://user-images.githubusercontent.com/76986040/159813234-7c1b5cb8-8d21-4583-83bf-2e71c9265ec6.png)
 ![image](https://user-images.githubusercontent.com/76986040/159813261-ee6d8a78-ce71-44e9-813b-de71c06c17b9.png)
+
+
+### Last updated
+- March 24, 2022
